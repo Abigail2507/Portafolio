@@ -5,14 +5,16 @@ h3,p3{color: rgb(118, 80, 255);}
 h4{color: blue;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;}
-
+h5{color: crimson;font-size: larger;
+}
     
-body{background-color: #8ACDD7;
+body
+{background:linear-gradient(rgb(152, 233, 240), pink);
 cursor: crosshair;
 }
 
 
-div {background-color: #FFC0D9;
+div {background-color: #f4d6e2;
     padding: 10px 20px 30px 40px ;
     border: 2px solid #000000;
     margin: 20px 40px
