@@ -9,9 +9,14 @@ h5{color: crimson;font-size: larger;
 }
     
 body
-{background:linear-gradient(rgb(152, 233, 240), pink);
-cursor: crosshair;
+{background:linear-gradient(rgb(152, 233, 240), rgb(223, 57, 168));
+
+
+    cursor: url("./cursor/avion.png"),auto;
+
 }
+
+
 
 
 div {background-color: #f4d6e2;
@@ -29,15 +34,19 @@ a:hover{color: rgb(255, 0, 230);
     border: 2px dotted #000000;
     transition: 0.5s;
     transform: scale(1.1);
-}
 
+
+}
 a:visited{color: rgb(183, 0, 255);
 }
+
+
 img:hover{
     border-radius: 50px;
     height: 250px;
 
 }
+
 
 .main-container{background-color: burlywood;
 width: 100%;
@@ -52,4 +61,5 @@ text-decoration: none}
     list-style-type:none;
 }
 #red-link{ color: rgb(233, 29, 7);}
+
 
